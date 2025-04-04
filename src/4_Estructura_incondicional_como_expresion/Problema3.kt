@@ -11,8 +11,9 @@ fun main() {
     if (lados > valor3)
         if (valor1 == valor2 && valor2 == valor3 && valor1 == valor3)
             print("Es equilatero")
-    else if ( valor1 == valor2 || valor2 == valor3 || valor1 == valor3 )
-        print("Es isosceles")
-    else
-        print("El triangulo es escaleno")
+        else if (valor1 == valor2 || valor2 == valor3 || valor1 == valor3)
+            print("Es isosceles")
+        else
+            print("El triangulo es escaleno")
+}
 
