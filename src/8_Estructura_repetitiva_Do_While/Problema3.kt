@@ -39,4 +39,3 @@ fun main() {
     } while (opcion != 5)
     println("Gracias por usar la calculadora")
 }
-m
