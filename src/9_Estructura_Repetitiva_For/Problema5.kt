@@ -1,9 +1,9 @@
 package `9_Estructura_Repetitiva_For`
 
 fun main() {
-    var num1 = 0
-    var num2 = 0
-    var num3 = 0
+    var numero1 = 0
+    var numero2 = 0
+    var numero3 = 0
     var esquilateros = 0
     var isosceles = 0
     var escalenos = 0
@@ -14,7 +14,7 @@ fun main() {
         val num1 = readln().toInt()
     print("Ingrese el segundo lado:")
     val num2 = readln().toInt()
-    rint("Ingrese el tercer lado:")
+    println("Ingrese el tercer lado:")
     val num3 = readln().toInt()
     if (num1 == num2 || num2 == num3 || num1 == num3){
         println("El triangulo es equilatero")
