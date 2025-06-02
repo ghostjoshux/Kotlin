@@ -5,7 +5,7 @@ fun main() {
 
     // Cargar el arreglo
     for (i in arreglo.indices) {
-        print("Ingrese el elemento")
+        print("Ingrese el elemento:")
         arreglo[i] = readln().toInt()
     }
 
