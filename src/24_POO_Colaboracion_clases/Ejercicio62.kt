@@ -1,4 +1,4 @@
-package _POO_Colaboracion_clases
+package `24_POO_Colaboracion_clases`
 
 import kotlin.random.Random
 

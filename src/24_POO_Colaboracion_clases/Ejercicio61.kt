@@ -1,4 +1,4 @@
-package _POO_Colaboracion_clases
+package `24_POO_Colaboracion_clases`
 
 class Cliente(var nombre: String, var monto: Float){
 

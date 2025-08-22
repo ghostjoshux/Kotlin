@@ -1,4 +1,4 @@
-package _POO_Colaboracion_clases
+package `24_POO_Colaboracion_clases`
 
 class Estudiantes(var nombre: String, var asistencias: Int){
 
