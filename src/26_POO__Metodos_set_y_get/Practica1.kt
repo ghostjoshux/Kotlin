@@ -55,7 +55,7 @@ class Jardin{
     }
     fun Precio(){
         var precio : Int = readln().toInt()
-        
+
         }
     }
     fun Subtotal(){
