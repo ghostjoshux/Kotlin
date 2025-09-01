@@ -7,7 +7,7 @@ definir luego varios objetos de dicha data class en la main
 data class Articulo(var codigo: Int, var descripcion: String, var precio:Float)
 
 fun main() {
-    val articulo1 = Articulo(1"papas",34f)
+    val articulo1 = Articulo(1,"Papas",34f)
     var articulo2 = Articulo(2,"Manzanas",24f)
     println(articulo1)
     println(articulo2)
